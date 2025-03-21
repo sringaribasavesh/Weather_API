@@ -1,7 +1,3 @@
-Here's a well-structured **README** for your Weather Web Application:  
-
----
-
 # 🌤 Weather Web Application  
 
 A simple **Flask-based Weather Web Application** that fetches real-time weather data using the **OpenWeatherMap API**. Users can enter a city and country name to get temperature, humidity, and wind speed details.  
